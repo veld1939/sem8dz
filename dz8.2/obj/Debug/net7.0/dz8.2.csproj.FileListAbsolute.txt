@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.AssemblyInfo.cs
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\dz8.8\dz8.2\bin\Debug\net7.0\dz8.2.exe
+C:\Users\олег\Desktop\dz8.8\dz8.2\bin\Debug\net7.0\dz8.2.deps.json
+C:\Users\олег\Desktop\dz8.8\dz8.2\bin\Debug\net7.0\dz8.2.runtimeconfig.json
+C:\Users\олег\Desktop\dz8.8\dz8.2\bin\Debug\net7.0\dz8.2.dll
+C:\Users\олег\Desktop\dz8.8\dz8.2\bin\Debug\net7.0\dz8.2.pdb
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.dll
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\refint\dz8.2.dll
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.pdb
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\dz8.2.genruntimeconfig.cache
+C:\Users\олег\Desktop\dz8.8\dz8.2\obj\Debug\net7.0\ref\dz8.2.dll
